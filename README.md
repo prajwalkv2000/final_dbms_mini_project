@@ -1,1 +1,1 @@
-# final_dbms_mini_project
+# dbms_revanth11
